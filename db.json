@@ -7,7 +7,7 @@
       "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
       "image": "./assets/f13-1.jpeg",
       "watched": false,
-      "blood_amount": 0
+      "blood_amount": 4
     },
     {
       "id": 2,
@@ -33,7 +33,7 @@
       "release_year": 1984,
       "description": "After being mortally wounded and taken to the morgue, murderer Jason Voorhees spontaneously revives and embarks on a killing spree as he makes his way back to his home at Crystal Lake.",
       "image": "./assets/f13-finalchapter.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     },
     {
@@ -42,8 +42,8 @@
       "release_year": 1985,
       "description": "Homicidal maniac Jason returns from the grave to cause more bloody mayhem. Young Tommy may have escaped from Crystal Lake, but he’s still haunted by the gruesome events that happened there. When gory murders start happening at the secluded halfway house for troubled teens where he now lives, it seems like his nightmarish nemesis, Jason, is back for more sadistic slaughters.",
       "image": "./assets/f13-newbeginning.jpeg",
-      "watched": false,
-      "blood_amount": 0
+      "watched": true,
+      "blood_amount": 2
     },
     {
       "id": 6,
@@ -97,7 +97,7 @@
       "description": "In an attempt to free himself from a state of forgotten limbo, evil dream-demon Freddy Krueger devises a plan to manipulate un-dead mass murderer Jason Voorhees into slicing-and-dicing his way through the teenage population of Springwood. But when the master of dreams loses control of his monster, a brutal fight to the death is the only way out.",
       "image": "./assets/f13-freddyvjason.jpeg",
       "watched": false,
-      "blood_amount": 0
+      "blood_amount": 4
     },
     {
       "id": 12,
